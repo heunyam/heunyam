@@ -1,8 +1,6 @@
 
 ## 김세준
 
-Here are some ideas to get you started:
-
 - 🌱 I’m currently learning Python and Flask
 
 [![heunyam's github stars](https://github-readme-stats.vercel.app/api?username=heunyam&hide=issues)](https://github.com/anuraghazra/github-readme-stats)
